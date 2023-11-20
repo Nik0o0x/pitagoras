@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: bisque;
+}
+h1.napis {
+    text-align: center;
+    color: #ffc400;
+    text-shadow: 0 0 0.2em #ff5e00, 0 0 0.2em #ff5e00;
+}
+#formularz {
+    background: url(https://archeologia.com.pl/wp-content/uploads/hieroglify-tlumacz.jpg);
+    text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+}
+#Wynik {
+    text-shadow: 0 0 0.2em rgb(116, 236, 17), 0 0 0.2em rgb(116, 236, 17),
+    0 0 0.2em rgb(116, 236, 17);
+}
